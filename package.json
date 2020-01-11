@@ -1,0 +1,26 @@
+{
+  "name": "dustin210.github.io-friend-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dustin210/Dustin210.github.io-friend-finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dustin210/Dustin210.github.io-friend-finder/issues"
+  },
+  "homepage": "https://github.com/Dustin210/Dustin210.github.io-friend-finder#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "require": "^2.4.20",
+    "stack": "^0.1.0"
+  }
+}
